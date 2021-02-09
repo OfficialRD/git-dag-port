@@ -11,3 +11,5 @@ local adjustment of code for
 checking wr privileges
 
 trying it out again
+
+another comment for a commit
