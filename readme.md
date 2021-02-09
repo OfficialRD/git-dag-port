@@ -9,3 +9,5 @@ so this works with the third commit?
 local adjustment of code for 
 
 checking wr privileges
+
+trying it out again
